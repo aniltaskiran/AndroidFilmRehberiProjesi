@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Film Rehberi</string>
+    <string name="action_filter">Filtre</string>
+    <string name="loading_movies">Filmler Yükleniyor...</string>
+    <string name="sort_by">Sırala</string>
+    <string name="movie_guide">Film Rehberi</string>
+    <string name="trailers">Fragman</string>
+    <string name="reviews">Yorumlar</string>
+    <string name="summary">Özet</string>
+    <string name="release_date">Yayınlanma Tarihi: %s</string>
+    <string name="rating">%s/10</string>
+    <string name="favorites">Favoriler</string>
+    <string name="newest">En Yeniler</string>
+    <string name="highest_rated">En Yüksek Puanlılar</string>
+    <string name="most_popular">En Popüler</string>
+    <string name="action_search">Ara</string>
+</resources>
